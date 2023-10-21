@@ -71,3 +71,4 @@ function progressInterva(){
         heartBox.style.left = heartLeft + '%'
     }
 }
+audioElement.play();
